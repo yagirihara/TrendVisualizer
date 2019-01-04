@@ -1,0 +1,4 @@
+elasticsearch.url: url
+elasticsearch.user: elastic
+elasticsearch.pass: pw
+use.ssl: True

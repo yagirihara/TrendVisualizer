@@ -1,6 +1,7 @@
 # TrendVisualizer
 
-# Install
+## Requirement
 
-# Start
+## Start
 python scripts/GoogleTrendVisualizer.py 
+
