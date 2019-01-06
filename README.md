@@ -15,5 +15,5 @@ python scripts/GoogleTrendVisualizer.py
 
 ## Examples
 Dashboard
-
-
+![image](https://user-images.githubusercontent.com/34449549/50733526-90b38800-11d2-11e9-8f16-68925b1bd77f.png)
+![image](https://user-images.githubusercontent.com/34449549/50733540-b80a5500-11d2-11e9-928c-472eb9673c55.png)
